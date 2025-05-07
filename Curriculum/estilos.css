@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+header p{
+    color: cornflowerblue;
+}
+section{
+    margin-bottom: 25px;
+}
+h2{
+    color: rgb(2, 42, 117);
+    border-bottom: 1px solid #ccc;
+}
