@@ -39,7 +39,7 @@ button{
 }
 
 header{
-	background-color: lightcyan;
+	background-color: lightgray;
 	color: lightcyan;
 	text-align: center;
 	padding: 20px;
@@ -62,7 +62,7 @@ h1{
 	color: lightcyan;
 }
 nav{
-	background: lightcyan;
+	background: lightgray;
 	padding: 10px;
 	text-align: center;
 }
@@ -98,7 +98,7 @@ article{
 aside{
 	flex: 2;
 	padding: 20px;
-	background-color: cadetblue;
+	background-color: lightgray;
 	border-radius: 20px;
 	font-family: monospace;
 }
