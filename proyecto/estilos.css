@@ -1,5 +1,5 @@
 body{
-	background-color: ;
+	background-color: darkgray;
 	font-family: cursive;
 	text-align: center;
 }
@@ -39,7 +39,7 @@ button{
 }
 
 header{
-	background-color: cadetblue;
+	background-color: lightgray;
 	color: lightcyan;
 	text-align: center;
 	padding: 20px;
