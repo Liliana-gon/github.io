@@ -11,27 +11,27 @@ section.formulario{
 	margin: 0 auto;
 	padding: 10px;
 	border-style: dashed;
-	border-top-color: deepskyblue;
-	border-bottom-color: deepskyblue;
-	border-right-color: deepskyblue;
-	border-left-color: deepskyblue;
+	border-top-color: cadetblue;
+	border-bottom-color: cadetblue;
+	border-right-color: cadetblue;
+	border-left-color: cadetblue;
 }
 h1{
-	color: deepskyblue;
+	color: cadetblue;
 	font-family: serif;
 	text-align: center;
 }
 h3{
-	color: deepskyblue;
+	color: cadetblue;
 	font-family: serif;
 }
 
 input{
 	border-style: double;
-	border-bottom-color: skyblue;
-	border-top-color: skyblue;
-	border-right-color: skyblue;
-	border-left-color: skyblue;
+	border-bottom-color: lightcyan;
+	border-top-color: lightcyan;
+	border-right-color: lightcyan;
+	border-left-color: lightcyan;
 }
 button{
 	font-size: 20px;
