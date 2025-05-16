@@ -53,7 +53,7 @@ table{
 		background-color: lightcyan;
 	}
     th{
-    	background-color: lightgray;
+    	background-color: darkgray;
     	color: cadetblue;
     }  
 }
