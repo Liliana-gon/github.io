@@ -68,7 +68,7 @@ nav{
 }
 
 nav a{
-	color: lightgray;
+	color: darkgray;
 	padding: 10px;
 	text-decoration: none;
 	display: inline-block;
