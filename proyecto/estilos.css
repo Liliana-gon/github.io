@@ -48,7 +48,7 @@ header{
 }
 table{
 	border-collapse: collapse;
-	border-color: cadetblue;
+	border-color: lightcyan;
 	td{
 		background-color: darkgray;
 	}
