@@ -35,3 +35,76 @@ button{
 	font-size: 20px;
 	border-style: groove;
 }
+
+header{
+	background-color: cadetblue;
+	color: lightcyan;
+	text-align: center;
+	padding: 20px;
+	font-size: 24px;
+	font-family: fantasy;
+}
+table{
+	border-collapse: collapse;
+	border-color: cadetblue;
+	td{
+		background-color: lightcyan;
+	}
+    th{
+    	background-color: darkgray;
+    	color: lightcyan;
+    }  
+}
+
+h1{
+	color: white;
+}
+nav{
+	background: lightcyan;
+	padding: 10px;
+	text-align: center;
+}
+
+nav a{
+	color: darkgray;
+	padding: 10px;
+	text-decoration: none;
+	display: inline-block;
+}
+
+nav a:hover{
+	color: cyan;
+}
+
+section.contenedor{
+	display: flex;
+	max-width: 800px;
+	margin: 20px auto;
+}
+
+article{
+	flex: 2;
+	padding: 20px;
+	background-color: lightgray;
+	margin-right: 5px;
+	border-radius: 20px;
+	font-family: monospace;
+}
+
+
+
+aside{
+	flex: 2;
+	padding: 20px;
+	background-color: cadetblue;
+	border-radius: 20px;
+	font-family: monospace;
+}
+
+footer{
+	background-color: cadetblue;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	margin-top: 20px;
+}
