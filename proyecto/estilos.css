@@ -1,6 +1,7 @@
 body{
 	background-color: ;
 	font-family: cursive;
+	text-align: center;
 }
 section.formulario{
 	background-color: beige;
@@ -57,7 +58,7 @@ table{
 }
 
 h1{
-	color: white;
+	color: cadetblue;
 }
 nav{
 	background: lightcyan;
