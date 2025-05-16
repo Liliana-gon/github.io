@@ -1,0 +1,58 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="estilos_frutas.css">
+	<title>Formulario</title>
+</head>
+<body>
+	<section class="formulario">
+		<h1>Obtenga su pizzarra portatil ahora!</h1>
+		<form action="#" method="POST">
+			
+			<label for="nombre">Nombre del cliente:</label>
+			<input type="text" name="nombre" required>
+			<br><br>
+            <label for="telefono">Numero de telefono:</label>
+            <input type="tel" name="telefono" placeholder="000-000-0000"required>
+             <br><br>
+            <label for="correo" >Correo electronico:</label>
+            <input type="email" name="correo" placeholder="nickname@correo.com" required>
+            <br><br>
+            <label for="frutas">Selecciona el color</label>
+            <select name="frutas">
+              <option value="lila">Lila</option>
+              <option value="gris">Gris</option>
+              <option value="negro">Negro</option>
+              <option value="rosa">Rosa pastel</option>
+              <option value="blanco">Blanco</option>
+            </select>
+              <br><br>
+            <label for="cantidad">Cantidad de pizzarras:</label>
+            <input type="number" name="cantidad" required>
+             <br><br>
+           
+            <h3>Opciones extra</h3>
+            <label>
+              <input type="checkbox" name="opciones extra" value="funda protectora">
+              Me gustastaria agregar una funda protectora por un costo extra
+            </label>
+            <br>
+            <label>
+              <input type="checkbox" name="opciones extra" value="entrega rapida">
+              Me gustastaria una entrega mas rapida
+            </label>
+            <br><br>
+            <h3>Opcion para realizar el pago</h3>
+            <label for="pago">Opcion para realizar el pago</label>
+            <select name="pago">
+              <option value="targeta">Targeta</option>
+              <option value="efectivo">Efectivo</option>
+            </select>
+            <br><br>
+			<button type="submit">Enviar</button>
+		</form>
+	</section>
+
+</body>
+</html>
