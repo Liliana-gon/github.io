@@ -1,1 +1,37 @@
+body{
+	background-color: lightskyblue;
+	font-family: cursive;
+}
+section.formulario{
+	background-color: beige;
+	border-radius: 10px;
+	width: 500px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 10px;
+	border-style: dashed;
+	border-top-color: deepskyblue;
+	border-bottom-color: deepskyblue;
+	border-right-color: deepskyblue;
+	border-left-color: deepskyblue;
+}
+h1{
+	color: deepskyblue;
+	font-family: serif;
+}
+h3{
+	color: deepskyblue;
+	font-family: serif;
+}
 
+input{
+	border-style: double;
+	border-bottom-color: skyblue;
+	border-top-color: skyblue;
+	border-right-color: skyblue;
+	border-left-color: skyblue;
+}
+button{
+	font-size: 20px;
+	border-style: groove;
+}
