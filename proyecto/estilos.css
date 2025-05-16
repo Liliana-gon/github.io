@@ -4,25 +4,25 @@ body{
 	text-align: center;
 }
 section.formulario{
-	background-color: beige;
+	background-color: lightgray;
 	border-radius: 10px;
 	width: 500px;
 	text-align: center;
 	margin: 0 auto;
 	padding: 10px;
 	border-style: dashed;
-	border-top-color: cadetblue;
-	border-bottom-color: cadetblue;
-	border-right-color: cadetblue;
-	border-left-color: cadetblue;
+	border-top-color: lightcyan;
+	border-bottom-color: lightcyan;
+	border-right-color: lightcyan;
+	border-left-color: lightcyan;
 }
 h1{
-	color: cadetblue;
+	color: lightcyan;
 	font-family: serif;
 	text-align: center;
 }
 h3{
-	color: cadetblue;
+	color: lightcyan;
 	font-family: serif;
 }
 
@@ -53,8 +53,8 @@ table{
 		background-color: lightcyan;
 	}
     th{
-    	background-color: cyan;
-    	color: lightcyan;
+    	background-color: lightgray;
+    	color: cadetblue;
     }  
 }
 
@@ -68,7 +68,7 @@ nav{
 }
 
 nav a{
-	color: cyan;
+	color: lightgray;
 	padding: 10px;
 	text-decoration: none;
 	display: inline-block;
@@ -87,7 +87,7 @@ section.contenedor{
 article{
 	flex: 2;
 	padding: 20px;
-	background-color: beige;
+	background-color: lightgray;
 	margin-right: 5px;
 	border-radius: 20px;
 	font-family: monospace;
