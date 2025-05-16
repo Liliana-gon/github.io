@@ -19,6 +19,7 @@ section.formulario{
 h1{
 	color: deepskyblue;
 	font-family: serif;
+	text-align: center;
 }
 h3{
 	color: deepskyblue;
@@ -52,7 +53,7 @@ table{
 		background-color: lightcyan;
 	}
     th{
-    	background-color: darkgray;
+    	background-color: beige;
     	color: lightcyan;
     }  
 }
@@ -67,7 +68,7 @@ nav{
 }
 
 nav a{
-	color: darkgray;
+	color: beige;
 	padding: 10px;
 	text-decoration: none;
 	display: inline-block;
